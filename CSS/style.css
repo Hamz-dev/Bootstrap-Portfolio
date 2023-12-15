@@ -2,3 +2,23 @@
 justify-content: right;
 }
 
+.portfolio-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .portfolio-lhs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 500px;
+  }
+  
+  .porfolio-rhs {
+    width: 100%;
+  }
+
+
+
