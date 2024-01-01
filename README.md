@@ -17,7 +17,11 @@ Personal Portfolio w/ Bootstrap
   Email: hamzah.ayed@hotmail.co.uk
 
 # Opporuntites for iprovment noted:
-  Mobile friendly - proportions of containers where inconsistant
-  Background/border styling & colour - understanding how to apply
-  How two bootstrap functions work together, (e.g - Nav Bar + Scrollspy)
+  Mobile friendly - proportions of containers were inconsistant.
+
+  
+  Background/border styling & colour - understanding how to apply.
+
+  
+  How two or more bootstrap functions work together, (e.g - Nav Bar + Scrollspy).
   
